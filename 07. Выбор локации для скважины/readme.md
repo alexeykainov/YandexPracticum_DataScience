@@ -50,6 +50,7 @@
 - **Pandas**
 - **NumPy**
 - **Matplotlib**
+- **Seaborn**
 - **Ridge**
 - **GridSearchCV**
 - **StandardScaler**
