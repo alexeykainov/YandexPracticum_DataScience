@@ -34,6 +34,7 @@
 - **RandomForestRegressor**
 - **GridSearchCV**
 - **TimeSeriesSplit**
+- **Временные ряды**
 
 ## Выводы
 
