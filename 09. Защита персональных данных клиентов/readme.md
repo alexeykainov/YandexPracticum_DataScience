@@ -27,6 +27,7 @@
 - **Seaborn**
 - **Scikit-learn**
 - **LinearRegression**
+- **Линейная алгебра**
 
 
 ## Выводы
