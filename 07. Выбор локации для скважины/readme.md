@@ -50,11 +50,12 @@
 - **Pandas**
 - **NumPy**
 - **Matplotlib**
+- **Sklearn**
 - **Seaborn**
 - **Ridge**
 - **GridSearchCV**
 - **StandardScaler**
-- **бутстреп**
+- **Bootstrap**
 
 ## Выводы
 
